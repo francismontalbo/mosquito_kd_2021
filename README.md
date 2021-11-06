@@ -45,7 +45,6 @@ Dependencies included in the `requirements.txt`:
 ## General Instruction:
 You may clone using git or download the repository and extract the files manually:
 - Once cloned, CD into the folder and enter `pip install -r requirements.txt`. 
-- After installation of the dependecies, there are two options, either evaluate from the given weights (EASY and FAST) or train the model again (DIFFICULT and LENGTHY).
-- Download the readily trained weights and dataset here ---> <a href="https://drive.google.com/drive/u/2/folders/1ke0kWhgzjlBQkle4Z0Fh31dnl5ny_HLf">Dataset and Trained Weights</a>
-- Extract the `data.rar` in `mfurecnn/data` and the `models.rar` in `mfurecnn/models`
+- Download the readily trained weights and dataset here ---> <a href="#">Dataset and Trained Weights</a>
+- Extract the `data.rar` in `../dataset` and the `models.rar` in `../models`
 ============================================================================
