@@ -1,0 +1,12 @@
+jupyter==1.0.0
+keras==2.4.3
+matplotlib==3.4.1
+numpy==1.19.5
+opencv-python==3.4.11.41
+pandas==1.2.4
+Pillow==8.2.0
+scikit-learn==0.24.1
+scikit-image==0.18.1
+scikit-plot==0.3.7
+scipy==1.2.0
+tf-nightly-gpu==2.6.0 
