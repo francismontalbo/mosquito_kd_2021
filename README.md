@@ -15,13 +15,13 @@
 <h3>Paper to cite:</h3>
 <p><a href="https://www.nature.com/articles/s41598-020-57875-1">Classification and Morphological Analysis of Vector Mosquitoes using Deep Convolutional Neural Networks</a></p>
 
-============================================================================
+=========================================================================
 
 ***:heavy_exclamation_mark:For a faster method, you may download the already prepared dataset used in the given link below.*** 
 
 <a href="https://drive.google.com/drive/u/2/folders/1ke0kWhgzjlBQkle4Z0Fh31dnl5ny_HLf">CLICK THIS FOR THE PREPARED DATASET USED IN THIS STUDY. Download the `data.rar` and extract it to the `../dataset`</a>
 
-============================================================================
+=========================================================================
 
 # How to use:
 # Disclaimer
@@ -41,10 +41,10 @@ Dependencies included in the `requirements.txt`:
 - scipy==1.2.0
 - tf-nightly-gpu==2.6.0 (Note: This is optional and can train even with just a CPU or tensorflow non-gpu variant. Nightly is used to compensate the new RTX 3060 card)
 
-============================================================================
+=========================================================================
 ## General Instruction:
 You may clone using git or download the repository and extract the files manually:
 - Once cloned, CD into the folder and enter `pip install -r requirements.txt`. 
 - Download the readily trained weights and dataset here ---> <a href="#">Dataset and Trained Weights</a>
 - Extract the `data.rar` in `../dataset` and the `models.rar` in `../models`
-============================================================================
+=========================================================================
