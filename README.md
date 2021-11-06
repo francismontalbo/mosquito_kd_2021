@@ -8,7 +8,7 @@
 
 # Graphical Abstract
 
-<img src="/graphics/graphical_abstract.jpg" alt="francis_montalbo_graphical_abstract_mosquito_KD_2021" width="1000">
+<img src="/graphics/graphical_abstract" alt="francis_montalbo_graphical_abstract_mosquito_KD_2021" width="1000">
 
 # Datasets used: 
 <h1><a href="https://drive.google.com/file/d/1aIlFzGdjhu9XFQkNtdk_n8qiM88zp3XY/view"></a>Mosquito Dataset</h1>
