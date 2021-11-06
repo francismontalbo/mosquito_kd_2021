@@ -47,4 +47,4 @@ You may clone using git or download the repository and extract the files manuall
 - Once cloned, CD into the folder and enter `pip install -r requirements.txt`. 
 - Download the readily trained weights and dataset here ---> <a href="#">Dataset and Trained Weights</a>
 - Extract the `data.rar` in `../dataset` and the `models.rar` in `../models`
-=========================================================================
+======================================================================
