@@ -13,7 +13,7 @@
 # Datasets used: 
 <h1><a href="https://drive.google.com/file/d/1aIlFzGdjhu9XFQkNtdk_n8qiM88zp3XY/view"></a>Mosquito Dataset</h1>
 <h3>Paper to cite:</h3>
-<p><a href="https://www.nature.com/articles/s41598-020-57875-1">KVASIR: A Multi-Class Image Dataset for Computer Aided Gastrointestinal Disease Detection</a></p>
+<p><a href="https://www.nature.com/articles/s41598-020-57875-1">Classification and Morphological Analysis of Vector Mosquitoes using Deep Convolutional Neural Networks</a></p>
 
 ============================================================================
 
