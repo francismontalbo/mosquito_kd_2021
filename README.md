@@ -2,7 +2,7 @@
 
 - ### Author: Dr. Francis Jesmar P. Montalbo
 - ### Affiliation: Batangas State University
-- ### Email: francismontalbo@ieee.orgl; francisjesmar.montalbo@g.batstate-u.edu.ph
+- ### Email: francismontalbo@ieee.org; francisjesmar.montalbo@g.batstate-u.edu.ph
 ### <p><a href="https://francismontalbo.github.io">Personal Webpage</a></p>
 ***PLEASE CONTANCT ME IF YOU ARE HAVING TROUBLE. I CAN OFFER ASSITANCE***
 
