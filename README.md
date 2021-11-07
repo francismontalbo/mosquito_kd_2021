@@ -19,7 +19,7 @@
 
 ***:heavy_exclamation_mark:For a faster method, you may download the already prepared dataset used in the given link below.*** 
 
-<a href="https://drive.google.com/drive/u/2/folders/1ke0kWhgzjlBQkle4Z0Fh31dnl5ny_HLf">CLICK THIS FOR THE PREPARED DATASET USED IN THIS STUDY. Download the `data.rar` and extract it to the `../dataset`</a>
+<a href="#">CLICK THIS FOR THE PREPARED DATASET USED IN THIS STUDY. Download the `data.rar` and extract it to the `../dataset`</a>
 
 =========================================================================
 
