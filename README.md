@@ -6,6 +6,12 @@
 ### <p><a href="https://francismontalbo.github.io">Personal Webpage</a></p>
 ***PLEASE CONTANCT ME IF YOU ARE HAVING TROUBLE. I CAN OFFER ASSITANCE***
 
+<h2>Please do care to cite my works related to this repository</h2>
+
+- F. J. P. Montalbo, "Machine-based Mosquito Taxonomy with a Lightweight Network-fused Efficient Dual ConvNet with Residual Learning and Knowledge Distillation," Applied Soft Computing, January, 2023. doi: 10.1016/j.asoc.2022.109913.
+
+- F. J. P. Montalbo, "Automating Mosquito Taxonomy by Compressing and Enhancing a Feature Fused EfficientNet with Knowledge Distillation and a Novel Residual Skip Block," MethodsX, January, 2023. doi: 10.1016/j.mex.2023.102072.
+
 # Graphical Abstract
 
 <img src="/graphics/ga.jpg" alt="francis_montalbo_graphical_abstract_mosquito_KD_2021" width="800">
