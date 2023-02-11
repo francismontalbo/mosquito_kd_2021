@@ -1,4 +1,4 @@
-# REPOSITORY MADE FOR A RESEARCH PUBLICATION
+# Machine-based mosquito taxonomy with a lightweight network-fused efficient dual ConvNet with residual learning and Knowledge Distillation
 
 - ### Author: Dr. Francis Jesmar P. Montalbo
 - ### Affiliation: Batangas State University
